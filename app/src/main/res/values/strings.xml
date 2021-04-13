@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Teacher</string>
+    <string name="camera_and_mic">These permissions are necessary for the app.</string>
+</resources>
